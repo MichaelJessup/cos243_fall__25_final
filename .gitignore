@@ -1,0 +1,39 @@
+    # Byte-compiled / optimized / DLL files
+    __pycache__/
+    *.pyc
+    *.pyd
+    *.pyo
+    *.egg-info/
+    .Python
+    build/
+    dist/
+
+    # Virtual environment
+    venv/
+    .venv/
+    env/
+    .env/
+
+    # IDE-specific files
+    .idea/
+    .vscode/
+    *.sublime-project
+    *.sublime-workspace
+
+    # Operating System files
+    .DS_Store
+    Thumbs.db
+
+    # Test and coverage files
+    .coverage
+    .pytest_cache/
+
+    # Database files
+    *.sqlite3
+
+    # Logs
+    *.log
+
+	# Alembic
+	alembic.ini
+	alembic/*
